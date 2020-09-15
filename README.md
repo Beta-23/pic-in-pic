@@ -29,6 +29,6 @@ async function selectMediaStream () {
 ```
 
 ## API
-> [Google Fonts](https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap)
-> [Picture-in-Picture intro](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
-> [API docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
+> 1.[Google Fonts](https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap)
+> 2.[Picture-in-Picture intro](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
+> 3.[API docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
