@@ -1,5 +1,5 @@
 # pic-in-pic
-pic-in-pic (PiP) allows you to watch videos in a floating window at any location on your window, so you can keep an eye on what you’re watching while interacting with other sites, or applications.
+pic-in-pic (pip) allows you to watch videos in a floating window at any location on your window, so you can keep an eye on what you’re watching while interacting with other sites, or applications.
 
 [pic-in-pic](https://beta-23.github.io/pic-in-pic/)
 
@@ -29,6 +29,6 @@ async function selectMediaStream () {
 ```
 
 ## API
-> https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap
-> https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/
-> https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture
+> [Google Fonts](https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap)
+> [Picture-in-Picture intro](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
+> [API docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
