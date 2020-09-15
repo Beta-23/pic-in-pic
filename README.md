@@ -1,7 +1,7 @@
 # pic-in-pic
 pic-in-pic (PiP) allows you to watch videos in a floating window at any location on your window, so you can keep an eye on what you’re watching while interacting with other sites, or applications.
 
-[pic-in-pic]()
+[pic-in-pic](https://beta-23.github.io/pic-in-pic/)
 
 ## How to use:
 1. Refresh page ⌘ r
