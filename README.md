@@ -1,11 +1,18 @@
 # pic-in-pic
-pic-in-pic (PiP) allows you to watch videos in a floating window at any location of choice, so you can keep an eye on what you’re watching while interacting with other sites, or applications
+pic-in-pic (PiP) allows you to watch videos in a floating window at any location on your window, so you can keep an eye on what you’re watching while interacting with other sites, or applications.
 
 [pic-in-pic]()
 
+## How to use:
+1. Refresh page ⌘ r
+2. Choose your video page or application
+3. Press the share button
+4. Press the 'Launch' button
+
 ## Language
 
-```JavaScript-ES6
+JavaScript-ES6
+```
 async function selectMediaStream () {
 	try {
 		const mediaStream = await navigator.mediaDevices.getDisplayMedia();
