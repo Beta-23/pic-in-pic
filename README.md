@@ -4,7 +4,7 @@ pic-in-pic (pip) allows you to watch videos in a floating window at any location
 [pic-in-pic](https://beta-23.github.io/pic-in-pic/)
 
 ## How to use:
-1. Refresh page ⌘ r
+1. Refresh page ⌘ R
 2. Choose your video page or application
 3. Press the share button
 4. Press the 'Launch' button
@@ -29,6 +29,6 @@ async function selectMediaStream () {
 ```
 
 ## API
-1.[Google Fonts](https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap)
-2.[Picture-in-Picture intro](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
-3.[API docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
+1.[Google Fonts](https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap)<br />
+2.[Picture-in-Picture intro](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)<br />
+3.[API docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)<br />
